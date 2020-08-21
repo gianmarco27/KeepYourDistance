@@ -1,0 +1,12 @@
+#OSX
+.DS_Store
+
+#Ignore Builds
+
+./build/*.*
+./build/*
+./build/**
+
+./simbuild/*.*
+./simbuild/*
+./simbuild/**
