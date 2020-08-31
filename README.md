@@ -1,2 +1,2 @@
 # KeepYourDistance
-Immuni implementation in nc for tinyOS and node-red
+Proximity alarm implementation in nc for tinyOS and node-red
