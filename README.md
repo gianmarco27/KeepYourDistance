@@ -20,9 +20,11 @@ Therefore the source code of the motes firmware is responsible only for the basi
 
 The repository includes a cooja simulation ready to go of 5 motes that boot in an elliptic configuration, all well distanced, each of them is attached a serial socket as a server, to output the printfs, both for debug that for actual output to node-red.
 
-![initial configuration](./img/proximity_no.png)
+![initial configuration](./img/proximity_no.PNG)
 
 The node-red flow has a tcp listener attached to each of the ports that is responsible to capture any printf the mote emits, after which it uses a split to route to a sink the debug messages and the actual printf to a parser.
+
+![motes sockets](./img/sockets.PNG)
 
 The parser is responsible for cleaning the mote output from the bloat that distortes the messages in node red and craft individual packets to be used in the IFTTT webhook.
 Before the actual send of the request a 1s rate limiter has been used, since the high frequency of the mote timers could have flooded the API resulting in some request getting lost.
@@ -35,6 +37,6 @@ Upon different and repeated configurations tested we can affirm that the mote de
 
 Below some images to illustrate it.
 
-![initial configuration](./img/proximity_yes.png)
-![applet ran](./img/webhook.png)
+![initial configuration](./img/proximity_yes.PNG)
+![applet ran](./img/webhook.PNG)
 ![notifications](./img/notifications.jpeg)
