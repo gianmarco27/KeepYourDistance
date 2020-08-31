@@ -1,0 +1,86 @@
+00:04.837	ID:2	DEBUG : id 2. Timer fired
+00:04.844	ID:2	DEBUG : id 2. Broadcasted Presence
+00:04.949	ID:4	DEBUG : id 4. Timer fired
+00:04.956	ID:4	DEBUG : id 4. Broadcasted Presence
+00:04.983	ID:1	DEBUG : id 1. Timer fired
+00:04.990	ID:1	DEBUG : id 1. Broadcasted Presence
+00:05.316	ID:5	DEBUG : id 5. Timer fired
+00:05.323	ID:5	DEBUG : id 5. Broadcasted Presence
+00:05.326	ID:2	DEBUG : id 2. Timer fired
+00:05.332	ID:2	DEBUG : id 2. Broadcasted Presence
+00:05.437	ID:4	DEBUG : id 4. Timer fired
+00:05.444	ID:4	DEBUG : id 4. Broadcasted Presence
+00:05.459	ID:3	DEBUG : id 3. Entered in range of MoteId = 4. Communicating proximity to NODE-RED
+00:05.461	ID:3	close to:4
+00:05.472	ID:1	DEBUG : id 1. Timer fired
+00:05.478	ID:1	DEBUG : id 1. Broadcasted Presence
+00:05.500	ID:3	DEBUG : id 3. Timer fired
+00:05.507	ID:3	DEBUG : id 3. Broadcasted Presence
+00:05.517	ID:4	DEBUG : id 4. Entered in range of MoteId = 3. Communicating proximity to NODE-RED
+00:05.519	ID:4	close to:3
+00:05.804	ID:5	DEBUG : id 5. Timer fired
+00:05.811	ID:5	DEBUG : id 5. Broadcasted Presence
+00:05.814	ID:2	DEBUG : id 2. Timer fired
+00:05.820	ID:2	DEBUG : id 2. Broadcasted Presence
+00:05.830	ID:4	DEBUG : id 4. Entered in range of MoteId = 2. Communicating proximity to NODE-RED
+00:05.832	ID:4	close to:2
+00:05.926	ID:4	DEBUG : id 4. Timer fired
+00:05.933	ID:4	DEBUG : id 4. Broadcasted Presence
+00:05.943	ID:2	DEBUG : id 2. Entered in range of MoteId = 4. Communicating proximity to NODE-RED
+00:05.943	ID:1	DEBUG : id 1. Entered in range of MoteId = 4. Communicating proximity to NODE-RED
+00:05.945	ID:1	close to:4
+00:05.945	ID:2	close to:4
+00:05.960	ID:1	DEBUG : id 1. Timer fired
+00:05.967	ID:1	DEBUG : id 1. Broadcasted Presence
+00:05.969	ID:4	DEBUG : id 4. Entered in range of MoteId = 1. Communicating proximity to NODE-RED
+00:05.975	ID:4	close to:1
+00:05.988	ID:3	DEBUG : id 3. Timer fired
+00:05.995	ID:3	DEBUG : id 3. Broadcasted Presence
+00:06.293	ID:5	DEBUG : id 5. Timer fired
+00:06.299	ID:5	DEBUG : id 5. Broadcasted Presence
+00:06.303	ID:2	DEBUG : id 2. Timer fired
+00:06.309	ID:2	DEBUG : id 2. Broadcasted Presence
+00:06.313	ID:4	DEBUG : id 4. Entered in range of MoteId = 5. Communicating proximity to NODE-RED
+00:06.315	ID:4	close to:5
+00:06.415	ID:4	DEBUG : id 4. Timer fired
+00:06.421	ID:4	DEBUG : id 4. Broadcasted Presence
+00:06.429	ID:5	DEBUG : id 5. Entered in range of MoteId = 4. Communicating proximity to NODE-RED
+00:06.431	ID:5	close to:4
+00:06.449	ID:1	DEBUG : id 1. Timer fired
+00:06.455	ID:1	DEBUG : id 1. Broadcasted Presence
+00:06.478	ID:3	DEBUG : id 3. Timer fired
+00:06.484	ID:3	DEBUG : id 3. Broadcasted Presence
+00:06.782	ID:5	DEBUG : id 5. Timer fired
+00:06.788	ID:5	DEBUG : id 5. Broadcasted Presence
+00:06.790	ID:2	DEBUG : id 2. Timer fired
+00:06.797	ID:2	DEBUG : id 2. Broadcasted Presence
+00:06.902	ID:4	DEBUG : id 4. Timer fired
+00:06.909	ID:4	DEBUG : id 4. Broadcasted Presence
+00:06.936	ID:1	DEBUG : id 1. Timer fired
+00:06.943	ID:1	DEBUG : id 1. Broadcasted Presence
+00:06.966	ID:3	DEBUG : id 3. Timer fired
+00:06.972	ID:3	DEBUG : id 3. Broadcasted Presence
+00:07.269	ID:5	DEBUG : id 5. Timer fired
+00:07.276	ID:5	DEBUG : id 5. Broadcasted Presence
+00:07.279	ID:2	DEBUG : id 2. Timer fired
+00:07.285	ID:2	DEBUG : id 2. Broadcasted Presence
+00:07.391	ID:4	DEBUG : id 4. Timer fired
+00:07.398	ID:4	DEBUG : id 4. Broadcasted Presence
+00:07.424	ID:1	DEBUG : id 1. Timer fired
+00:07.431	ID:1	DEBUG : id 1. Broadcasted Presence
+00:07.454	ID:3	DEBUG : id 3. Timer fired
+00:07.460	ID:3	DEBUG : id 3. Broadcasted Presence
+00:07.757	ID:5	DEBUG : id 5. Timer fired
+00:07.764	ID:5	DEBUG : id 5. Broadcasted Presence
+00:07.767	ID:2	DEBUG : id 2. Timer fired
+00:07.774	ID:2	DEBUG : id 2. Broadcasted Presence
+00:07.879	ID:4	DEBUG : id 4. Timer fired
+00:07.886	ID:4	DEBUG : id 4. Broadcasted Presence
+00:07.913	ID:1	DEBUG : id 1. Timer fired
+00:07.920	ID:1	DEBUG : id 1. Broadcasted Presence
+00:07.942	ID:3	DEBUG : id 3. Timer fired
+00:07.949	ID:3	DEBUG : id 3. Broadcasted Presence
+00:08.246	ID:5	DEBUG : id 5. Timer fired
+00:08.253	ID:5	DEBUG : id 5. Broadcasted Presence
+00:08.255	ID:2	DEBUG : id 2. Timer fired
+00:08.262	ID:2	DEBUG : id 2. Broadcasted Presence
